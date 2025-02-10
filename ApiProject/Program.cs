@@ -78,4 +78,10 @@ app.MapDelete("/api/products/{id}", async (int id, ApplicationDbContext db) =>
     return Results.NoContent();
 });
 
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5236"; // Default to 5236 if not set
+app.Run($"http://0.0.0.0:{port}");
+
 app.Run(); 
+
+

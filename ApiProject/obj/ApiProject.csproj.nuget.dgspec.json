@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learnings\\ASP.NET\\ApiProject\\ApiProject.csproj": {}
+    "D:\\Learnings\\ASP.NET\\DOTNET_API\\ApiProject\\ApiProject.csproj": {}
   },
   "projects": {
-    "D:\\Learnings\\ASP.NET\\ApiProject\\ApiProject.csproj": {
+    "D:\\Learnings\\ASP.NET\\DOTNET_API\\ApiProject\\ApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learnings\\ASP.NET\\ApiProject\\ApiProject.csproj",
+        "projectUniqueName": "D:\\Learnings\\ASP.NET\\DOTNET_API\\ApiProject\\ApiProject.csproj",
         "projectName": "ApiProject",
-        "projectPath": "D:\\Learnings\\ASP.NET\\ApiProject\\ApiProject.csproj",
+        "projectPath": "D:\\Learnings\\ASP.NET\\DOTNET_API\\ApiProject\\ApiProject.csproj",
         "packagesPath": "C:\\Users\\rahul.kumar4\\.nuget\\packages\\",
-        "outputPath": "D:\\Learnings\\ASP.NET\\ApiProject\\obj\\",
+        "outputPath": "D:\\Learnings\\ASP.NET\\DOTNET_API\\ApiProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul.kumar4\\AppData\\Roaming\\NuGet\\NuGet.Config"
